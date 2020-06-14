@@ -1,0 +1,21 @@
+.page__section {
+  padding: 0 48px 92px;
+}
+
+@media screen and (max-width: 1023px) {
+  .page__section {
+    padding: 0 24px 88px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .page__section {
+    padding: 0 24px 76px;
+  }
+}
+
+@media screen and (max-width: 424px) {
+  .page__section {
+    padding: 0 16px 64px;
+  }
+}
