@@ -1,16 +1,25 @@
-# Путешествия по России
+# Travel in Russia
 
-Одностраничный сайт о самых красивых уголках России. 
+A responsive single-page website showcasing some of the most beautiful destinations across Russia.
 
-https://olyerofeeva.github.io/russian-travel/
+**Live demo:** https://olyerofeeva.github.io/russian-travel/
 
-### Используемые технологии: HTML, CSS.
-В частности:
-* отзывчивая вёрстка
-* grid layout
-* flexbox
-* БЭМ
+### ✨ Features
+* Responsive layout optimized for various screen sizes
+* Modern design utilizing CSS Grid and Flexbox
+* Semantic HTML structure
+* BEM (Block Element Modifier) methodology for CSS organization
+* Clean and maintainable codebase
 
-### Планы по доработке проекта:
-* Добавить кроссбраузерные префиксы
-* Избавиться от каскадных импортов после 8-го спринта
+### 🛠 Technologies Used
+* HTML5
+* CSS3
+* Flexbox
+* CSS Grid
+* BEM methodology
+
+### 📌 Future Improvements
+* Add vendor prefixes for enhanced cross-browser compatibility
+* Refactor and remove cascading imports
+
+<sub>Made in June 2020</sub>
